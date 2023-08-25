@@ -1,0 +1,55 @@
+#navbar{
+    position: absolute;
+    top: 0;
+    height: 60px;
+    border-bottom: 1px solid  black;
+    width: 1250px;
+    display: flex;
+    align-items: center;
+}
+#logo{
+    width: 50px;
+    border-radius: 50%;
+    margin-left: 50px;
+}
+#logoset{
+    display: flex;
+    align-items: center;
+    position: absolute;
+}
+h2{
+    width: 200px;
+    margin-left: 20px;
+    font-family: 'Rubik', sans-serif;
+    
+}
+.page{
+    color: black;
+    text-decoration: none;
+    margin-left: 50px;
+    font-size: 18px;
+    font-family: 'Rubik', sans-serif;
+}
+#pagemain{
+    color: black;
+    text-decoration: none;
+    margin-left: 800px;
+    font-size: 18px;
+    font-family: 'Rubik', sans-serif; 
+   
+}
+#text{
+    font-size: 20px;
+    margin-top: 100px;
+    width: 500px;
+    background-color: rgba(120, 117, 117, 0.053);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    line-height: 30px;
+}
+h1{
+    margin-top: 100px;
+    margin-left: 550px;
+
+}
